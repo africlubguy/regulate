@@ -1,4 +1,6 @@
 === Regulate ===
+A WordPress Plugin
+# A _Hello Dolly_ for the New Age
 
 Contributors: J. Salmon Kitololo
 Stable 
